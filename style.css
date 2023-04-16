@@ -7,12 +7,13 @@ body{
     min-height: 100vh;
     background-color: hsl(0, 0%, 94%);
     font-family: 'Poppins',sans-serif;
+    display: flex;
+    align-items: center;
 }
 
 .container{
     height: 27rem;
     margin: 0 auto;
-    margin-top: 5rem;
     padding: 0 1.5rem;
     border-radius: 1.5rem;
     border-bottom-right-radius: 5rem;
